@@ -1,0 +1,4 @@
+r=8
+pi=3.14
+Area=(pi*r*r)
+print("Area of Circle" ,Area)
